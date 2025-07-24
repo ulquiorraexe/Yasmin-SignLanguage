@@ -1,0 +1,18 @@
+kamera:
+  cozunurluk:
+    genislik: 640
+    yukseklik: 480
+  flip_horizontal: false
+  fps: 30
+loglama:
+  dosya_boyut_limiti_mb: 10
+  seviye: INFO
+  yedek_sayisi: 3
+model:
+  guven_esigi: 0.7
+  kare_stabilite_esigi: 5
+  max_eller: 2
+uygulama:
+  dil: tr
+  pencere_basligi: YASMIN - İşaret Dili Çevirici
+  tema: koyu

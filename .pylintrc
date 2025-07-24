@@ -1,0 +1,35 @@
+[MASTER]
+disable=
+    C0111, # missing-docstring
+    C0103, # invalid-name
+    C0303, # trailing-whitespace
+    C0330, # wrong-hanging-indentation
+    W0311, # bad-indentation
+    W0603, # global-statement
+    R0903, # too-few-public-methods
+    R0913, # too-many-arguments
+    R0914, # too-many-locals
+    E1101  # no-member (for OpenCV)
+
+[FORMAT]
+max-line-length=88
+
+[MESSAGES CONTROL]
+disable=W0511,C0111
+
+[REPORTS]
+output-format=colorized
+reports=no
+
+[BASIC]
+good-names=i,j,k,ex,Run,_,fd,fp,id,ip
+
+[SIMILARITIES]
+min-similarity-lines=7
+ignore-comments=yes
+ignore-docstrings=yes
+ignore-imports=yes
+
+[TYPECHECK]
+# OpenCV için tip kontrolünü devre dışı bırak
+ignored-modules=cv2 
