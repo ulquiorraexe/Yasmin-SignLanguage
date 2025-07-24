@@ -3,16 +3,12 @@
 ## 📝 About the Project
 This is a modern and user-friendly desktop application that performs **real-time sign language translation** by detecting hand movements using a webcam.
 
-The project is named "Yasmin" after my fiancée, who inspired me to create this application.
-
 ---
 
 # 🤟 İşaret Dili Çevirici Uygulaması
 
 ## 📝 Proje Hakkında
 Bu proje, kameradan gelen görüntülerle **gerçek zamanlı işaret dili çevirisi** yapan modern ve kullanıcı dostu bir masaüstü uygulamasıdır.
-
-Projeye, bu uygulamayı yaratmama ilham veren nişanlım Yasmin'in adını verdim.
 
 ---
 
